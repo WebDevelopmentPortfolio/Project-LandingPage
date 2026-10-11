@@ -1,7 +1,7 @@
 
 ### Description
 
-A flexbox layout project called Landing Page from The Odin Project. The page can be viewed here  https://mypracticesautomationtesting.github.io/WebDevelopment-LandingProject/.
+A flexbox layout project called Landing Page from The Odin Project. The page can be viewed here  https://webdevelopmentportfolio.github.io/Project-LandingPage/.
 
 Using HTML and CSS in VSCode.
 
