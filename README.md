@@ -1,9 +1,11 @@
 
 ### Description
 
-A flexbox layout project called Landing Page from The Odin Project. The page can be viewed here  https://webdevelopmentportfolio.github.io/Project-LandingPage/.
+Project: Landing Page from <a href="https://www.theodinproject.com/">The Odin Project</a> Foundations Course on Flexbox.
 
-Using HTML and CSS in VSCode.
+The page can be viewed here  https://webdevelopmentportfolio.github.io/Project-LandingPage/.
+
+Using HTML and CSS.
 
 Stock images are free and taken from www.magnific.com. Credits:
 
@@ -17,7 +19,7 @@ Stock images are free and taken from www.magnific.com. Credits:
 
 <a href="https://www.magnific.com/free-vector/night-landscape-with-lake-mountains-trees-coast-vector-cartoon-illustration-nature-scene-with-coniferous-forest-river-shore-rocks-moon-stars-dark-sky_20928412.htm">Image by upklyak on Magnific
 
-![alt text](image-1.png)
+<img src="screenshot-landing-page.png" height="300">
 
-Note: In Firefox, my screengrab tool can't seem to capture correctly the blue portion at the bottom part. In Chrome though, it captures fine, but it seems to narrow the space between the blue part and the footer as shown in the screenshot above, which is narrower than actual.
+
 
